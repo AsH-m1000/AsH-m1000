@@ -8,7 +8,7 @@ Rahul is a JavaScript Developer with a passion for Creating and developing Andro
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sairahul550@gmail.com](mailto:sairahul550@gmail.com)
-* 🧠  I'm learning Everything
+* 🧠  I'm excited to become Full-Stack 
 
 ### Skills
 
