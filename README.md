@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-Rahul is a JavaScript Developer with a passion for Creating and developing Android,IOS and Web Appications.He is a Full-time developer with an experience of 1 year in Software Industry.
+Rahul is a JavaScript Developer with a passion for Creating and developing Android,IOS and Web Appications.He is a Senior React-Native Developer  with an experience of 2 year in Software Industry.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sairahul550@gmail.com](mailto:sairahul550@gmail.com)
